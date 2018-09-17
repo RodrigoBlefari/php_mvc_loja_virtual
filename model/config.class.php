@@ -2,8 +2,8 @@
 Class Config
 {
     //info para transicao servidor
-    const SITE_URL = "http://rodrigo";
-    const SITE_PASTA = "";
+    const SITE_URL = "http://localhost";
+    const SITE_PASTA = "PHP_MVC_LOJA_VIRTUAL";
     const SITE_NOME = "Loja Rodrigo - PHP7 MYSQLI MVC";
     const SITE_EMAIL_ADM = "rodrigo.blefari@gmail.com.br";
 

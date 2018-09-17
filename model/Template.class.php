@@ -4,6 +4,7 @@ Class Template extends Smarty
 {
     function __construct()
     {
+        parent:: __construct();
         //Seta o diretorio do template
         $this->setTemplateDir('view/');
         //seta dir cache(defaut)
